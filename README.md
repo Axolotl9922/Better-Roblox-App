@@ -1,4 +1,4 @@
-Better Roblox is a replacement for the laggy Roblox desktop app. I found the web version of Roblox pretty good so I put it into Chrome kiosk and made an app that opens it and replaces the desktop version.
+Roblox Player Pro is a replacement for the laggy Roblox desktop app. I found the web version of Roblox pretty good so I put it into Chrome kiosk and made an app that opens it and replaces the desktop version.
 ### Note: It might take a couple of seconds for Roblox to load when you join an experience!
 ### Note: It might take a couple of seconds for the program to close! Don't spam-press the hotkey, else you'll close Chrome too!
 
