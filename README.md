@@ -1,6 +1,6 @@
-Roblox Player Pro is a full replacement for the laggy Roblox desktop app. I found the web version of Roblox pretty good so I put it into Chrome kiosk and made an app that opens it and replaces the desktop version.
+Roblox Player Pro is a full replacement for the laggy Roblox desktop app, now with Bloxstrap support (check desc.). I found the web version of Roblox pretty good so I put it into Chrome kiosk and made an app that opens it and replaces the desktop version.
 ### Note: It might take a couple of seconds for Roblox to load when you join an experience!
-### Note: It might take a couple of seconds for the program to close! Don't spam-press the hotkey, or else you'll close Chrome too!
+### Note: The program might take a couple of seconds to close! Don't spam-press the hotkey, or else you'll close Chrome too!
 
 # Preparations
 1. Install Chrome (https://www.google.com/chrome/next-steps.html)
@@ -16,7 +16,7 @@ Ropro - http://www.ropro.io
 BTRoblox - https://chromewebstore.google.com/detail/hbkpclpemjeibhioopcebchdmohaieln                             
 
 ## 1. Double-click on the .exe file
-This will open up Roblox inside Chrome kiosk.
+This will open up Roblox inside the Chrome kiosk.
 ### Press ctrl+alt+y to quit Roblox/Chrome (If you close Chrome, you close the .exe file so reopen it to relaunch the Roblox web version.)
 
 ## (Optional) Add the Roblox Player Pro to startup
